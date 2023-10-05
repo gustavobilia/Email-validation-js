@@ -13,7 +13,7 @@
     } else {
         form.classList.remove("valid");
         form.classList.add("invalid");
-        text.innerHTML = "Please Enter a Valid Email Address";
+        text.innerHTML = "Please Enter a Valid Email Address.";
         text.style.color = "#c50d0d";
     }
 
